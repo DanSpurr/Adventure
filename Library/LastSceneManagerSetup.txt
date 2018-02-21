@@ -1,0 +1,4 @@
+sceneSetups:
+- path: F:/UniFolder/Year 4/Group Project/RipperRun/Assets/_Scenes/Map.unity
+  isLoaded: 1
+  isActive: 1
